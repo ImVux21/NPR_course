@@ -1,4 +1,4 @@
-package udp.client;
+package udp_with_swing.client;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
