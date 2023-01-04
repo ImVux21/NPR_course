@@ -1,6 +1,4 @@
-package udp_with_swing.client;
-
-import normal_udp.client.UDPClient;
+package normal_udp.client;
 
 import javax.swing.*;
 import java.awt.*;
